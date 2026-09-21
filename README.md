@@ -11,6 +11,20 @@
 - Data Analysis & Visualization
 - UX/UI Design
 
+## Tech Stack
+
+### Languages
+Python · C · Java · SQL
+
+### AI & Data
+NumPy · Pandas · Matplotlib · scikit-learn · OpenCV
+
+### Database
+MySQL
+
+### Tools
+Git · GitHub
+
 ## Projects
 
 ### [2026-1 DB Project — 올리브영을 모티브로 한 유통업체 관리 시스템]
