@@ -14,7 +14,7 @@
 ## Tech Stack
 
 ### Languages
-Python · C · Java · SQL
+Python · C/C++ · Java · SQL
 
 ### AI & Data
 NumPy · Pandas · Matplotlib · scikit-learn · OpenCV
